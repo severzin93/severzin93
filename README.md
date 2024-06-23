@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @severzin93
 - 👀 I’m interested in 0sint
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python as a hobby
 - 💞️ I’m looking to collaborate on Infosec Projects
-- 📫 How to reach me phone no. +79168100032
+- 📫 How to reach me phone no. +7916810----
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i have a dog breed WSSD, his name FrostMourne
 
